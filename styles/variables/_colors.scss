@@ -1,0 +1,23 @@
+$white: #fff !default;
+$black: #000 !default;
+$cerulean: #00adee !default;
+$candlelight: #f9d423 !default;
+
+$colors: (
+  "white": $white,
+  "black": $black,
+  "cerulean": $cerulean,
+  "candlelight": $candlelight,
+) !default;
+
+$primary: $cerulean !default;
+$secondary: $candlelight !default;
+
+$theme-colors: (
+  "black": $black,
+  "white": $white,
+  "cerulean": $cerulean,
+  "candlelight": $candlelight,
+) !default;
+
+$body-color: $black !default;

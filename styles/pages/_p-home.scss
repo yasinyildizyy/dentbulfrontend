@@ -1,0 +1,24 @@
+.p-home {
+  #i-want-to {
+    margin-top: -118px;
+    position: relative;
+    z-index: 1;
+  }
+
+  #about-us {
+    h2 {
+      font-weight: 700;
+      font-size: 38px;
+      margin-bottom: 15px;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .p-home {
+    #i-want-to {
+      overflow: hidden;
+      margin-top: 32px;
+    }
+  }
+}

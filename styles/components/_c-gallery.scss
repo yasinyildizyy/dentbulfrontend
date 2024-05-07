@@ -1,0 +1,11 @@
+.swiper-gallery {
+  .swiper__buttons {
+    &--prev {
+      left: 1.5rem;
+    }
+
+    &--next {
+      right: 1.5rem;
+    }
+  }
+}

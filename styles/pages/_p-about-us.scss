@@ -1,0 +1,28 @@
+.p-about-us {
+  .about-right {
+    margin: 0 !important;
+  }
+
+  .about-left {
+    &::before,
+    &::after {
+      z-index: 0 !important;
+    }
+
+    img {
+      position: relative;
+    }
+  }
+
+  img {
+    border-radius: 8px;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .p-about-us {
+  }
+}

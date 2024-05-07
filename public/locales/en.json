@@ -1,0 +1,381 @@
+{
+  "seo": {
+    "home": "Dentbul",
+    "before-after": "Before & After | Dentbul",
+    "patient-testimonials": "Patient Testimonials | Dentbul",
+    "free-consultation": "Free Consultation | Dentbul",
+    "our-treatments": "Our Treatments | Dentbul",
+    "our-treatments-detail": " | Our Treatments | Dentbul",
+    "dental-holidays": "Dental Holidays | Dentbul",
+    "faq": "FAQ's | Dentbul",
+    "medical-staff": "Medical Staff | Dentbul",
+    "dental-clinic": "Dental Clinic | Dentbul",
+    "blog": "Blog | Dentbul",
+    "blog-detail": " | Blog | Dentbul",
+    "contact-us": "Contact Us | Dentbul",
+    "about-us": "About Us | Dentbul",
+    "quiz": "Journey Plan | Dentbul"
+  },
+  "footer": {
+    "contact-us": "Contact Us"
+  },
+  "home": {
+    "i-want-to": {
+      "feature-1": {
+        "title": "High Experience",
+        "content": "We have more than 20 years of experience in dental treatments."
+      },
+      "feature-2": {
+        "title": "Expert Team",
+        "content": "We put an end to dental disorders with our specialist physicians."
+      },
+      "feature-3": {
+        "title": "High Standard",
+        "content": "We consider even the smallest detail for our valuable patients."
+      }
+    },
+    "about-us": {
+      "title": "Dentbul Dental Clinic Turkey",
+      "content": "Dentbul Oral and Dental Health has been serving for more than 10 years on the European side of Istanbul, at the junction of the Asian and European continents, with the departments of Aesthetics, Implant, Zirconium and All Dental Treatments. In line with our company policy, we have been working for the satisfaction of our patients with Oral and Dental Health problems for more than 10 years, for zero problems and high level patient satisfaction.",
+      "button": "Know More"
+    },
+    "our-treatments": {
+      "title": "Turkey Dental Treatments",
+      "read-more": "Read More"
+    },
+    "patient-testimonials": {
+      "title": "Patient Testimonials",
+      "watch-video": "Watch Video"
+    },
+    "blog": {
+      "title": "Our Latest Blog",
+      "read-more": "Read More"
+    }
+  },
+  "breadcrumbs": {
+    "about-us": {
+      "page-title": "About Us",
+      "home-page-text": "Home",
+      "active-page-text": "About Us"
+    },
+    "dental-clinic": {
+      "page-title": "Dental Clinic",
+      "home-page-text": "Home",
+      "active-page-text": "Dental Clinic"
+    },
+    "dental-holidays": {
+      "page-title": "Dental Holidays",
+      "home-page-text": "Home",
+      "active-page-text": "Dental Holidays"
+    },
+    "medical-staff": {
+      "page-title": "Medical Staff",
+      "home-page-text": "Home",
+      "active-page-text": "Medical Staff"
+    },
+    "faq": {
+      "page-title": "FAQ's",
+      "home-page-text": "Home",
+      "active-page-text": "FAQ's"
+    },
+    "our-treatments": {
+      "page-title": "Our Treatments",
+      "home-page-text": "Home",
+      "active-page-text": "Our Treatments"
+    },
+    "our-treatments-detail": {
+      "page-title": "",
+      "home-page-text": "Our Treatments",
+      "active-page-text": ""
+    },
+    "results-patient-testimonials": {
+      "page-title": "Patient Testimonials",
+      "home-page-text": "Results",
+      "active-page-text": "Patient Testimonials"
+    },
+    "results-before-after": {
+      "page-title": "Before & After",
+      "home-page-text": "Results",
+      "active-page-text": "Before & After"
+    },
+    "blog": {
+      "page-title": "Blog",
+      "home-page-text": "Home",
+      "active-page-text": "Blog"
+    },
+    "blog-detail": {
+      "page-title": "",
+      "home-page-text": "Blog",
+      "active-page-text": ""
+    },
+    "free-consultation": {
+      "page-title": "Free Consultation",
+      "home-page-text": "Home",
+      "active-page-text": "Free Consultation"
+    },
+    "contact-us": {
+      "page-title": "Contact Us",
+      "home-page-text": "Home",
+      "active-page-text": "Contact Us"
+    },
+    "quiz": {
+      "page-title": "Free Journey Plan",
+      "home-page-text": "Home",
+      "active-page-text": "Free Journey Plan"
+    }
+  },
+  "about-us": {
+    "before-after": "Before & After"
+  },
+  "dental-clinic": {
+    "dental-clinic": "Dental Clinic",
+    "before-after": "Before & After",
+    "medical-staff": "Medical Staff"
+  },
+  "dental-holidays": {
+    "hotel-sheraton": "Sheraton Istanbul Ataköy Hotel",
+    "hotel-titanic": "Titanic Port Bakirkoy"
+  },
+  "before-after": {
+    "before-after": "Before & After",
+    "patient-testimonials": "Patient Testimonials"
+  },
+  "free-consultation": {
+    "form": {
+      "title": "Free Consultation",
+      "sub-title": "After filling out the form, we will go throught with you as soon as possible."
+    }
+  },
+  "form": {
+    "contact": {
+      "whatsapp": "Contact via WhatsApp",
+      "button": "Send Message",
+      "elements": {
+        "full-name": {
+          "placeholder": "Your Name *",
+          "validations": {
+            "max": "It should be a maximum of {{length}} characters.",
+            "matches": "It can only consist of letters.",
+            "required": "Name field cannot be left blank."
+          }
+        },
+        "email": {
+          "placeholder": "Your E-Mail *",
+          "validations": {
+            "matches": "You entered an invalid e-mail.",
+            "required": "E-mail field cannot be left blank."
+          }
+        },
+        "phone": {
+          "placeholder": "Your Phone *",
+          "validations": {
+            "matches": "It can only consist of numbers.",
+            "required": "Phone number field cannot be left blank."
+          }
+        },
+        "subject": {
+          "placeholder": "Your Subject *",
+          "validations": {
+            "min": "Must be at least {{length}} characters.",
+            "max": "It should be a maximum of {{length}} characters.",
+            "required": "Subject field cannot be left blank."
+          }
+        },
+        "message": {
+          "placeholder": "Write your message...",
+          "validations": {
+            "min": "Must be at least {{length}} characters.",
+            "max": "It should be a maximum of {{length}} characters.",
+            "required": "Message field cannot be left blank."
+          }
+        }
+      },
+      "response": {
+        "success": "Thank you for contacting us. <br /> We will contact you as soon as possible.",
+        "error": "An error occurred while submitting the form, please try again."
+      }
+    }
+  },
+  "contact-us": {
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "title": "Drop your message for any info or question"
+  },
+  "patient-testimonials": {
+    "country": "Country:",
+    "treatment": "Treatment:",
+    "year": "Year:",
+    "watch-video": "Watch Video"
+  },
+  "404": {
+    "title": "404!",
+    "sub-title": "Sorry! The Page Not Found",
+    "description": "Oops! The page you are looking for does not exit. it might been moved or deleted.",
+    "button": "Return to Home"
+  },
+  "quiz": {
+    "title": "Lets start to create your free plan",
+    "description": "Hello, you can solve the test below, which takes 20 seconds to learn the treatment prices you are wondering about, see the before and after images and win a gift from Turkey's largest clinic 🙂",
+    "loading": {
+      "title": "Your free super plan is being prepared for you.",
+      "completed": "The super plan we have created for you is ready.",
+      "stage1": "Your choices are being analyzed",
+      "stage2": "Appropriate plan is created according to your choices",
+      "stage3": "You are given free additional transactions that you can use for your choices."
+    },
+    "questions": {
+      "q": {
+        "q": "Which stage would you like to continue with?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Learn Prices",
+        "a2": "Before & After Galleries",
+        "a3": "Ask Your Questions",
+        "a4": "Create a Treatment Plan"
+      },
+      "q1": {
+        "q": "Do you have any problems with your teeth?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Yes there is",
+        "a2": "No my teeth are completely healthy"
+      },
+      "q2": {
+        "q": "What dental problems are you experiencing now or before?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Gum disease",
+        "a2": "Tooth curvature",
+        "a3": "Missing teeth",
+        "a4": "Pain in my teeth",
+        "a5": "Other"
+      },
+      "q3": {
+        "q": "When are you planning to come to Istanbul?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "In a few days",
+        "a2": "In a few weeks",
+        "a3": "Next month",
+        "a4": "In the next three months",
+        "a5": "Three months later or more"
+      },
+      "q4": {
+        "q": "Will you come to Istanbul alone or with a friend or partner?",
+        "note": "We're asking this because we're going to gift her/him teeth whitening.",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "With my friend",
+        "a2": "Alone"
+      },
+      "q5": {
+        "q": "We would like to pick you up from the airport in a luxury vehicle and let you stay in our own hotel. Is this right for you?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Yes, it's ok",
+        "a2": "No, I will stay elsewhere"
+      },
+      "q6": {
+        "q": "How many days will you stay in Istanbul?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "1-5 Days",
+        "a2": "5-10 Days",
+        "a3": "2 Weeks",
+        "a4": "1 Month or more"
+      },
+      "q7": {
+        "q": "Would a guide about the historical places of Istanbul make you happy?",
+        "note": "",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Yes",
+        "a2": "No, i know Istanbul"
+      },
+      "q8": {
+        "q": "One last step left!",
+        "note": "How would you like us to send you our price list and the details of the gift you won?",
+        "loading": "Your preferences are being evaluated for analysis.",
+        "a1": "Send on Whatsapp",
+        "a2": "Call and Explain",
+        "a3": "Send by Email"
+      }
+    },
+    "complete": {
+      "note-title": "Note",
+      "online": "Online",
+      "completed": "The super plan we have created for you is ready, and we have added a special gift voucher to the plan. Please fill out the information below to be able to offer you this plan for free.",
+      "note": "You don't need to be confused, we planned everything from the day you came to Istanbul to the date you will come back. Price, gifts, accomodation, city tour and more...Get this plan with a gift now.. The plan will be deleted in a half an hour.",
+      "congrats": "Congrats you're the <strong>{{count}}</strong>.th person who have just created free plan in an hour. You can get your free teeth whitening in our Clinics.",
+      "personal": "Your personal guidence <strong>Selin</strong> is ready to help you whenever you want.",
+      "start-free": "Learn Prices and Gift",
+      "final": "If you have additional questions, you can ask questions by connecting to our Free Whatsapp line from the link below.",
+      "final-title": "Your application is complete!"
+    },
+    "buttons": {
+      "button-1": "Create Your Free Journey Plan",
+      "button-2": "Create Your Journey, See the Price",
+      "button-3": "Gift Tool",
+      "button-4": "Free Guidence Tool",
+      "button-5": "Use Journey Manager Tool"
+    }
+  },
+  "banner": {
+    "journey": {
+      "title": "Travel Plan FOR FREE!",
+      "description": "We'll make a travel plan for you. Let's get it started with 8 simple question and then you'll be ready!",
+      "button": "Create Free Plan"
+    }
+  },
+  "or": "or",
+  "prices": {
+    "treatment": "Treatment",
+    "price": "Prices",
+    "zirconium-coating": {
+      "price": "150 Euro",
+      "value": "Zirconium Veneer"
+    },
+    "emax-coating": {
+      "price": "200 Euro",
+      "value": "Emax Veneer"
+    },
+    "porcelain-veneer": {
+      "price": "100 Euro",
+      "value": "Porcelain Veneer"
+    },
+    "native-implant": {
+      "price": "200 Euro",
+      "value": "Native Implant"
+    },
+    "medentika-implant": {
+      "price": "410 Euro",
+      "value": "Medentika (german) Implant"
+    },
+    "swiss-implant": {
+      "price": "350 Euro",
+      "value": "Swiss Implant"
+    },
+    "x-ray-and-examination": {
+      "price": "<span>Free</span>",
+      "value": "X-ray and Check up"
+    },
+    "accommodation": {
+      "price": "<span>Free</span>",
+      "value": "Accommodation"
+    },
+    "vip-transfer": {
+      "price": "<span>Free</span>",
+      "value": "VIP Transfer"
+    },
+    "teeth-whitening": {
+      "price": "<span>Free</span>",
+      "value": "Teeth Whitening"
+    },
+    "interpreter-service": {
+      "price": "<span>Free</span>",
+      "value": "Translation/Interpreter Service"
+    }
+  },
+  "email-or-phone": {
+    "description": "You do not have to enter the two information requested below.<br />You can learn the treatment prices by leaving your e-mail or phone number."
+  }
+}

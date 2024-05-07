@@ -1,0 +1,14 @@
+.swiper-before-after__gallery {
+  .c-card__gallery {
+    img {
+      height: 100%;
+    }
+  }
+
+  .swiper__buttons--next {
+    right: 1rem;
+  }
+  .swiper__buttons--prev {
+    left: 1rem;
+  }
+}

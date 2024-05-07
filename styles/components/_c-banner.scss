@@ -1,0 +1,66 @@
+.c-banner {
+  &__journey {
+    background-image: url("/images/banner-journey-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5rem 0;
+    position: relative;
+
+    .overlay {
+      background-color: rgb(30 30 45 / 90%);
+      bottom: 0;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 0;
+    }
+
+    .journey__body {
+      position: relative;
+      text-align: center;
+
+      .logo {
+        margin-bottom: 1rem;
+
+        img {
+          border-radius: 12px;
+          overflow: hidden;
+          padding: 0.5rem;
+        }
+      }
+
+      h2 {
+        color: #ffffff;
+        font-weight: 700;
+      }
+
+      p {
+        color: #ffffff;
+        margin: 0 auto;
+        margin-bottom: 2.5rem;
+        width: 70%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .c-banner {
+    &__journey {
+      padding: 3.5rem 0;
+
+      .journey__body {
+        padding: 0 1rem;
+
+        p {
+          margin: 0;
+          margin-bottom: 1.5rem;
+          width: 100%;
+        }
+      }
+    }
+  }
+}

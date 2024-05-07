@@ -1,0 +1,26 @@
+@media only screen and (max-width: 767px) {
+  .p-contact {
+    &__form {
+      &.drop-area {
+        .visible-row {
+          display: initial;
+        }
+      }
+    }
+    &-us {
+      .drop-item {
+        padding: 0;
+
+        .contact-form {
+          .mb-5 {
+            margin-bottom: 0 !important;
+          }
+        }
+      }
+
+      .speciality-item {
+        display: none;
+      }
+    }
+  }
+}

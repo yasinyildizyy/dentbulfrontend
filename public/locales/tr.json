@@ -1,0 +1,376 @@
+{
+  "seo": {
+    "home": "Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "before-after": "Öncesi & Sonrası | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "patient-testimonials": "Hasta Görüşleri | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "free-consultation": "Online Konsültasyon | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "our-treatments": "Tedavilerimiz | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "our-treatments-detail": " | Tedavilerimiz | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "dental-holidays": "Vip Konaklama ve Ulaşım | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "faq": "S.S.S. | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "medical-staff": "Medikal Kadro | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "dental-clinic": "Polikliniğimiz | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "blog": "Blog | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "blog-detail": " | Blog | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "contact-us": "Bize Ulaşın | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "about-us": "Hakkımızda | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği",
+    "quiz": "Yolculuk Planı | Dentbul | Özel Bul Ağız ve Diş Sağlığı Polikliniği"
+  },
+  "footer": {
+    "contact-us": "Bize Ulaşın"
+  },
+  "home": {
+    "i-want-to": {
+      "feature-1": {
+        "title": "Yüksek Tecrübe",
+        "content": "Diş tedavilerinde 20 yılı aşkın deneyime sahibiz."
+      },
+      "feature-2": {
+        "title": "Uzman Ekip",
+        "content": "Uzman hekimlerimizle diş bozukluklarına son veriyoruz."
+      },
+      "feature-3": {
+        "title": "Yüksek Standart",
+        "content": "Değerli hastalarımız için en ufak detayı bile düşünmekteyiz."
+      }
+    },
+    "about-us": {
+      "title": "Dentbul Diş Kliniği Türkiye",
+      "content": "Dentbul Ağız ve Diş Sağlığı 10 yılı aşkın süredir İstanbul Avrupa yakasında Asya ve Avrupa kıtasının birleştiği noktada Estetik, İmplant, Zirkonyum ve Tüm Diş Tedavileri bölümleriyle hizmet vermektedir. Şirket politikamız gereği sıfır sorun ve üst düzey hasta memnuniyeti için 10 yılı aşkın süredir Ağız ve Diş Sağlığı problemi olan hastalarımızın memnuniyeti için çalışmaktayız.",
+      "button": "Devamını Oku"
+    },
+    "our-treatments": {
+      "title": "Türkiye Diş Tedavileri",
+      "read-more": "Devamını Oku"
+    },
+    "patient-testimonials": {
+      "title": "Hasta Yorumları",
+      "video izle": "Videoyu İzle"
+    },
+    "blog": {
+      "title": "Son Eklenen Yazılar",
+      "read-more": "Devamını Oku"
+    }
+  },
+  "breadcrumbs": {
+    "about-us": {
+      "page-title": "Hakkımızda",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Hakkımızda"
+    },
+    "dental-clinic": {
+      "page-title": "Polikliniğimiz",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Polikliniğimiz"
+    },
+    "medical-staff": {
+      "page-title": "Medikal Kadro",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Medikal Kadro"
+    },
+    "faq": {
+      "page-title": "S.S.S.",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "S.S.S."
+    },
+    "our-treatments": {
+      "page-title": "Tedavilerimiz",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Tedavilerimiz"
+    },
+    "our-treatments-detail": {
+      "page-title": "",
+      "home-page-text": "Tedavilerimiz",
+      "active-page-text": ""
+    },
+    "results-patient-testimonials": {
+      "page-title": "Hasta Görüşleri",
+      "home-page-text": "Sonuçlar",
+      "active-page-text": "Hasta Görüşleri"
+    },
+    "results-before-after": {
+      "page-title": "Öncesi & Sonrası",
+      "home-page-text": "Sonuçlar",
+      "active-page-text": "Öncesi & Sonrası"
+    },
+    "blog": {
+      "page-title": "Blog",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Blog"
+    },
+    "blog-detail": {
+      "page-title": "",
+      "home-page-text": "Blog",
+      "active-page-text": ""
+    },
+    "free-consultation": {
+      "page-title": "Online Konsültasyon",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "Online Konsültasyon"
+    },
+    "contact-us": {
+      "page-title": "İletişim",
+      "home-page-text": "Ana Sayfa",
+      "active-page-text": "İletişim"
+    },
+    "quiz": {
+      "page-title": "Ücretsiz Yolculuk Planı",
+      "home-page-text": "Ana sayfa",
+      "active-page-text": "Ücretsiz Yolculuk Planı"
+    }
+  },
+  "about-us": {
+    "before-after": "Öncesi & Sonrası"
+  },
+  "dental-clinic": {
+    "dental-clinic": "Polikliniğimiz",
+    "before-after": "Öncesi & Sonrası",
+    "medical-staff": "Medikal Kadro"
+  },
+  "dental-holidays": {
+    "hotel-sheraton": "Sheraton Istanbul Ataköy Hotel",
+    "hotel-titanic": "Titanic Port Bakirkoy"
+  },
+  "before-after": {
+    "before-after": "Öncesi & Sonrası",
+    "patient-testimonials": "Hasta Görüşleri"
+  },
+  "free-consultation": {
+    "form": {
+      "title": "Online Konsültasyon",
+      "sub-title": "Formu doldurduktan sonra en kısa sürede sizinle iletişime geçeceğiz."
+    }
+  },
+  "form": {
+    "contact": {
+      "whatsapp": "WhatsApp ile İletişime Geç",
+      "button": "Mesaj Gönder",
+      "elements": {
+        "full-name": {
+          "placeholder": "Adınız *",
+          "validations": {
+            "max": "En fazla {{length}} karakter olmalıdır.",
+            "matches": "Yalnızca harflerden oluşabilir.",
+            "required": "Ad alanı boş bırakılamaz."
+          }
+        },
+        "email": {
+          "placeholder": "E-Posta *",
+          "validations": {
+            "matches": "Geçersiz bir e-posta girdiniz.",
+            "required": "E-posta alanı boş bırakılamaz."
+          }
+        },
+        "phone": {
+          "placeholder": "Telefon *",
+          "validations": {
+            "matches": "Yalnızca sayılardan oluşabilir.",
+            "required": "Telefon numarası alanı boş bırakılamaz."
+          }
+        },
+        "subject": {
+          "placeholder": "Konu *",
+          "validations": {
+            "min": "En az {{length}} karakter olmalıdır.",
+            "max": "En fazla {{length}} karakter olmalıdır.",
+            "required": "Konu alanı boş bırakılamaz."
+          }
+        },
+        "message": {
+          "placeholder": "Mesajınızı yazın...",
+          "validations": {
+            "min": "En az {{length}} karakter olmalıdır.",
+            "max": "En fazla {{length}} karakter olmalıdır.",
+            "required": "Mesaj alanı boş bırakılamaz."
+          }
+        }
+      },
+      "response": {
+        "success": "Bizimle iletişime geçtiğiniz için teşekkür ederiz. <br /> En kısa sürede sizinle iletişime geçeceğiz.",
+        "error": "Form gönderilirken bir hata oluştu, lütfen tekrar deneyiniz."
+      }
+    }
+  },
+  "contact-us": {
+    "location": "Konum",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "title": "Herhangi bir bilgi veya soru için mesajınızı bırakın"
+  },
+  "patient-testimonials": {
+    "country": "Ülke:",
+    "treatment": "Tedavi:",
+    "year": "Yıl:",
+    "watch-video": "Videoyu İzle"
+  },
+  "404": {
+    "title": "404!",
+    "sub-title": "Üzgünüz! Sayfa Bulunamadı",
+    "description": "Hata! Aradığınız sayfadan çıkılamıyor. Taşınmış veya silinmiş olabilir.",
+    "button": "Ana Sayfaya Dön"
+  },
+  "quiz": {
+    "title": "Ücretsiz planınızı oluşturmaya başlayalım.",
+    "description": "Merhaba, merak ettiğiniz tedavi fiyatlarını öğrenmeniz, öncesi sonrası görsellerini görmeniz ve Türkiye'nin en büyük kliniğinden hediye kazanmanız için 20 saniye süren aşağıdaki testi çözebilirsiniz 🙂",
+    "loading": {
+      "title": "Ücretsiz süper planınız sizin için hazırlanıyor.",
+      "completed": "Sizin için oluşturduğumuz süper plan hazır.",
+      "stage1": "Seçimleriniz analiz ediliyor",
+      "stage2": "Seçimlerinize göre uygun plan oluşturulur",
+      "stage3": "Seçimleriniz için kullanabileceğiniz ücretsiz ek işlemler verilir."
+    },
+    "questions": {
+      "q": {
+        "q": "Hangi aşama ile devam etmek istersiniz?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Fiyatları Öğrenin",
+        "a2": "Öncesi & Sonrası Galerisi",
+        "a3": "Merak Ettiklerini Sor",
+        "a4": "Tedavi Planı Oluşturun"
+      },
+      "q1": {
+        "q": "Dişlerinizle ilgili herhangi bir sorununuz var mı?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Evet var",
+        "a2": "Hayır, dişlerim tamamen sağlıklı"
+      },
+      "q2": {
+        "q": "Şu anda veya daha önce hangi diş problemlerini yaşıyorsunuz?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Diş eti hastalığı",
+        "a2": "Diş eğriliği",
+        "a3": "Eksik dişler",
+        "a4": "Dişlerimde ağrı",
+        "a5": "Diğer"
+      },
+      "q3": {
+        "q": "İstanbul'a ne zaman gelmeyi düşünüyorsun?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Birkaç gün içinde",
+        "a2": "Birkaç hafta içinde",
+        "a3": "Gelecek ay",
+        "a4": "Önümüzdeki üç ay içinde",
+        "a5": "Üç ay veya daha fazla süre sonra"
+      },
+      "q4": {
+        "q": "İstanbul'a yalnız mı yoksa bir arkadaşınız veya partnerinizle mi geleceksiniz?",
+        "note": "Bunu soruyoruz çünkü ona diş beyazlatma hediye edeceğiz.",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Arkadaşımla",
+        "a2": "Yalnız"
+      },
+      "q5": {
+        "q": "Sizi lüks bir araçla hava alanından alıp kendi otelimizde kalmanızı istiyoruz. Bu size uygun mu?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Evet, tamam",
+        "a2": "Hayır, başka bir yerde kalacağım"
+      },
+      "q6": {
+        "q": "İstanbul'da kaç gün kalacaksınız?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "1-5 Gün",
+        "a2": "5-10 Gün",
+        "a3": "2 Hafta",
+        "a4": "1 Ay veya daha fazla"
+      },
+      "q7": {
+        "q": "İstanbul'un tarihi yerleri hakkında bir rehber sizi mutlu eder mi?",
+        "note": "",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Evet",
+        "a2": "Hayır, İstanbul'u biliyorum"
+      },
+      "q8": {
+        "q": "Son bir adım kaldı!",
+        "note": "Fiyat listemizi ve kazandığınız hediyenin detaylarını hangi yolla iletmemizi istersiniz?",
+        "loading": "Tercihleriniz analiz için değerlendiriliyor.",
+        "a1": "Whatsapp'dan Gönderin",
+        "a2": "Arayıp Açıklayın",
+        "a3": "Email ile Gönderin"
+      }
+    },
+    "complete": {
+      "note-title": "Not",
+      "online": "Çevrimiçi",
+      "completed": "Sizin için oluşturduğumuz süper plan hazır ve plana özel bir hediye çeki ekledik. Bu planı size ücretsiz sunabilmek için lütfen aşağıdaki bilgileri doldurun.",
+      "note": "Kafanızı karıştırmanıza gerek yok, İstanbul'a geldiğiniz günden, geri döneceğiniz tarihe kadar her şeyi biz planladık. Fiyat, hediyeler, konaklama, şehir turu ve daha fazlası... şimdi hediye et.. Plan yarım saat içinde silinecek.",
+      "congrats": "Tebrikler, bir saat içinde ücretsiz plan oluşturan <strong>{{count}}</strong>. kişisiniz. Ücretsiz diş beyazlatmanızı Kliniklerimizde alabilirsiniz.",
+      "personal": "Kişisel rehberin <strong>Selin</strong> istediğin zaman sana yardım etmeye hazır.",
+      "start-free": "Fiyatları ve Hediyeyi Öğren",
+      "final": "Başka sorularınız varsa aşağıdaki linkten Ücretsiz Whatsapp hattımıza bağlanarak soru sorabilirsiniz.",
+      "final-title": "Başvurunuz tamamlandı!"
+    },
+    "buttons": {
+      "button-1": "Ücretsiz Yolculuk Planınızı Oluşturun",
+      "button-2": "Yolculuğunu Oluştur, Fiyatı Gör",
+      "button-3": "Hediye Aracı",
+      "button-4": "Ücretsiz Rehberlik Aracı",
+      "button-5": "Yolculuk Yöneticisi Aracını Kullan"
+    }
+  },
+  "banner": {
+    "journey": {
+      "title": "Ücret Talep Etmeden Seyahatinizi Planlıyoruz!",
+      "description": "Yalnızca bir dakikanızı ayırarak gerekli soruları yanıtlayın, isteklerinize en uygun seyahat planını oluşturalım!",
+      "button": "Ücretsiz Plan Oluştur"
+    }
+  },
+  "or": "ya da",
+  "prices": {
+    "treatment": "Tedavi",
+    "price": "Fiyatlar",
+    "zirconium-coating": {
+      "price": "150 Euro",
+      "value": "Zirkonyum Kaplama"
+    },
+    "emax-coating": {
+      "price": "200 Euro",
+      "value": "Emax Kaplama"
+    },
+    "porcelain-veneer": {
+      "price": "100 Euro",
+      "value": "Porselen Kaplama"
+    },
+    "native-implant": {
+      "price": "200 Euro",
+      "value": "Doğal İmplant"
+    },
+    "medentika-implant": {
+      "price": "410 Euro",
+      "value": "Medentika (Alman) implantı"
+    },
+    "swiss-implant": {
+      "price": "350 Euro",
+      "value": "İsviçre İmplantı"
+    },
+    "x-ray-and-examination": {
+      "price": "<span>Ücretsiz</span>",
+      "value": "Röntgen ve Muayene"
+    },
+    "accommodation": {
+      "price": "<span>Ücretsiz</span>",
+      "value": "Konaklama"
+    },
+    "vip-transfer": {
+      "price": "<span>Ücretsiz</span>",
+      "value": "VIP Transfer"
+    },
+    "teeth-whitening": {
+      "price": "<span>Ücretsiz</span>",
+      "value": "Diş Beyazlatma"
+    },
+    "interpreter-service": {
+      "price": "<span>Ücretsiz</span>",
+      "value": "Çeviri/Tercümanlık Hizmeti"
+    }
+  },
+  "email-or-phone": {
+    "description": "Aşağıda istenen iki bilgiyi girmek zorunda değilsiniz.<br />E-posta veya telefon numaranızı bırakarak tedavi fiyatlarını öğrenebilirsiniz."
+  }
+}

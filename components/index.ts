@@ -1,0 +1,11 @@
+export { default as Header } from "./header/header";
+export { default as Footer } from "./footer/footer";
+export { MainSwiper } from "./swiper";
+export { HomeSlider } from "./slider";
+export { Breadcrumb } from "./breadcrumb";
+export { Gallery } from "./gallery";
+export { ContactForm } from "./form";
+export { StepImageChoice } from "./quizSteps";
+export { LoadingBar } from "./loadingBar";
+export { StickCallButton } from "./button";
+export { BannerJourney } from "./banner";

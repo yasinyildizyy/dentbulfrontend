@@ -1,0 +1,108 @@
+#swiperjs {
+  position: relative;
+}
+.swiper {
+  &__buttons {
+    &--disable {
+      cursor: no-drop !important;
+    }
+
+    &--slider {
+      .swiper__buttons--prev {
+        left: 1.5rem;
+      }
+
+      .swiper__buttons--next {
+        right: 1.5rem;
+      }
+    }
+
+    &--prev,
+    &--next {
+      @include flex(row, center, center, auto);
+      background-color: #ffffff;
+      border: 1px solid #344c5d;
+      border-radius: 4px;
+      box-shadow: 0 0 8px -3px rgb(0 0 0 / 35%);
+      cursor: pointer;
+      height: 2rem;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      transition: all 0.35s ease;
+      width: 2rem;
+      z-index: 2;
+
+      svg {
+        color: #344c5d;
+      }
+
+      &:hover {
+        background-color: #344c5d;
+
+        svg {
+          color: #ffffff;
+        }
+      }
+    }
+
+    &--prev {
+      left: -1rem;
+    }
+
+    &--next {
+      right: -1rem;
+    }
+  }
+
+  &-pagination {
+    bottom: 0 !important;
+    display: none;
+
+    &.show {
+      display: block;
+    }
+  }
+}
+.sm-swiper-btn {
+  .swiper__buttons {
+    &--next {
+      right: -0.5rem;
+      top: 43%;
+    }
+
+    &--prev {
+      left: -0.5rem;
+      top: 43%;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .swiper {
+    &__buttons {
+      &--prev {
+        left: 0.5rem;
+      }
+
+      &--next {
+        right: 0.5rem;
+      }
+    }
+  }
+}
+@media only screen and (min-width: 1366px) and (max-width: 1439px) {
+  .sm-swiper-btn {
+    .swiper__buttons {
+      &--next {
+        right: -3rem;
+        top: 48%;
+      }
+
+      &--prev {
+        left: -3rem;
+        top: 48%;
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+@media only screen and (max-width: 767px) {
+  .c-slider {
+    .swiper__buttons--slider {
+      .swiper__buttons {
+        &--next {
+          right: 0.5rem;
+        }
+
+        &--prev {
+          left: 0.5rem;
+        }
+      }
+    }
+
+    .slider-item {
+      height: 230px;
+
+      h1 {
+        font-size: 26px;
+      }
+    }
+  }
+}

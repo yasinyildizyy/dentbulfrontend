@@ -1,0 +1,29 @@
+.c-breadcrumb {
+  .page-title-area {
+    height: 246px;
+
+    &::before {
+      background-color: #0046c0;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .page-title-item {
+    ul {
+      li {
+        margin-right: 24px;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .page-title-item {
+    ul {
+      li {
+        margin-right: 24px;
+      }
+    }
+  }
+}

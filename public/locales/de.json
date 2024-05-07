@@ -1,0 +1,375 @@
+{
+  "seo": {
+    "home": "Dentbul",
+    "before-after": "Vorher & Nachher | Dentbul",
+    "patient-testimonials": "Patientenberichte | Dentbul",
+    "free-consultation": "Kostenlose Beratung | Dentbul",
+    "our-treatments": "Unsere Behandlungen | Dentbul",
+    "our-treatments-detail": " | Unsere Behandlungen | Dentbul",
+    "dental-holidays": "Zahnärztliche Ferien | Dentbul",
+    "faq": "FAQs | Dentbul",
+    "medical-staff": "Ärztliches Personal | Dentbul",
+    "dental-clinic": "Zahnklinik | Dentbul",
+    "blog": "Blog | Dentbul",
+    "blog-detail": " | Blog | Dentbul",
+    "contact-us": "Kontaktieren Sie Uns | Dentbul",
+    "about-us": "Über Uns | Dentbul",
+    "quiz": "Reiseplan | Dentbul"
+  },
+  "footer": {
+    "contact-us": "Kontaktieren Sie Uns"
+  },
+  "home": {
+    "i-want-to": {
+      "feature-1": {
+        "title": "Hohe Erfahrung",
+        "content": "Wir haben mehr als 20 Jahre Erfahrung in der Zahnbehandlung."
+      },
+      "feature-2": {
+        "title": "Expertenteam",
+        "content": "Mit unseren Fachärzten setzen wir Zahnerkrankungen ein Ende."
+      },
+      "feature-3": {
+        "title": "Hoher Standard",
+        "content": "Für unsere wertvollen Patienten berücksichtigen wir selbst das kleinste Detail."
+      }
+    },
+    "about-us": {
+      "title": "Dentbul Zahnklinik Türkei",
+      "content": "Mit einer Erfahrung von über 10 Jahren ist Dentbul ein internationales Gesundheitsinstitut, das erschwingliche Preise bei hohem Qualitätsstandard bietet. Wir bringen unsere Patienten vor allem aus Europa und den Ländern des Mittleren Ostens mit unserem Team zusammen. Wir betrachten die Gesundheit als Ganzes, wir stehen Ihnen während der Behandlungen zur Seite. Wir bieten zuverlässige Optionen in den Bereichen Implantate, Zahnverblendung, Zahnästhetik und Kieferorthopädie. Wir bieten Unterkunft und Transport für Sie mit unserem fachkundigen Zahnarzt und qualifizierten Klinik.",
+      "button": "Weiterlesen"
+    },
+    "our-treatments": {
+      "title": "Zahnbehandlungen in der Türkei",
+      "read-more": "Weiterlesen"
+    },
+    "patient-testimonials": {
+      "title": "Patientenberichte",
+      "watch-video": "Video ansehen"
+    },
+    "blog": {
+      "title": "Unser neuster Blog",
+      "read-more": "Weiterlesen"
+    }
+  },
+  "breadcrumbs": {
+    "about-us": {
+      "page-title": "Über Uns",
+      "home-page-text": "Startseite",
+      "active-page-text": "Über Uns"
+    },
+    "dental-clinic": {
+      "page-title": "Zahnklinik",
+      "home-page-text": "Startseite",
+      "active-page-text": "Zahnklinik"
+    },
+    "dental-holidays": {
+      "page-title": "Zahnärztliche Ferien",
+      "home-page-text": "Startseite",
+      "active-page-text": "Zahnärztliche Ferien"
+    },
+    "medical-staff": {
+      "page-title": "Ärztliches Personal",
+      "home-page-text": "Startseite",
+      "active-page-text": "Ärztliches Personal"
+    },
+    "faq": {
+      "page-title": "FAQ's",
+      "home-page-text": "Startseite",
+      "active-page-text": "FAQ's"
+    },
+    "our-treatments": {
+      "page-title": "Unsere Behandlungen",
+      "home-page-text": "Startseite",
+      "active-page-text": "Unsere Behandlungen"
+    },
+    "our-treatments-detail": {
+      "page-title": "",
+      "home-page-text": "Unsere Behandlungen",
+      "active-page-text": ""
+    },
+    "results-patient-testimonials": {
+      "page-title": "Patientenberichte",
+      "home-page-text": "Ergebnisse",
+      "active-page-text": "Patientenberichte"
+    },
+    "results-before-after": {
+      "page-title": "Vorher & Nachher",
+      "home-page-text": "Ergebnisse",
+      "active-page-text": "Vorher & Nachher"
+    },
+    "blog": {
+      "page-title": "Blog",
+      "home-page-text": "Startseite",
+      "active-page-text": "Blog"
+    },
+    "blog-detail": {
+      "page-title": "",
+      "home-page-text": "Blog",
+      "active-page-text": ""
+    },
+    "free-consultation": {
+      "page-title": "Kostenlose Beratung",
+      "home-page-text": "Startseite",
+      "active-page-text": "Kostenlose Beratung"
+    },
+    "contact-us": {
+      "page-title": "Kontaktieren Sie Uns",
+      "home-page-text": "Startseite",
+      "active-page-text": "Kontaktieren Sie Uns"
+    },
+    "quiz": {
+      "page-title": "Kostenloser Reiseplan",
+      "home-page-text": "Home",
+      "active-page-text": "Kostenloser Reiseplan"
+    }
+  },
+  "about-us": {
+    "before-after": "Vorher & Nachher"
+  },
+  "dental-clinic": {
+    "dental-clinic": "Zahnklinik",
+    "before-after": "Vorher & Nachher",
+    "medical-staff": "Ärztliches Personal"
+  },
+  "dental-holidays": {
+    "hotel-sheraton": "Sheraton Istanbul Ataköy Hotel",
+    "hotel-titanic": "Titanic Port Bakirkoy"
+  },
+  "before-after": {
+    "before-after": "Vorher & Nachher",
+    "patient-testimonials": "Patientenberichte"
+  },
+  "free-consultation": {
+    "form": {
+      "title": "Kostenlose Beratung",
+      "sub-title": "Nachdem Sie das Formular ausgefüllt haben, werden wir es so schnell wie möglich mit Ihnen durchgehen."
+    }
+  },
+  "form": {
+    "contact": {
+      "whatsapp": "Kontakt über WhatsApp",
+      "button": "Nachricht senden",
+      "elements": {
+        "full-name": {
+          "placeholder": "Ihr Name *",
+          "validations": {
+            "max": "Es sollte maximal {{length}} Zeichen lang sein.",
+            "matches": "Es darf nur aus Buchstaben bestehen.",
+            "required": "Namensfeld darf nicht leer bleiben."
+          }
+        },
+        "email": {
+          "placeholder": "Ihre E-Mail *",
+          "validations": {
+            "matches": "Sie haben eine ungültige E-Mail-Adresse eingegeben.",
+            "required": "E-Mail-Feld darf nicht leer bleiben."
+          }
+        },
+        "phone": {
+          "placeholder": "Ihr Telefon *",
+          "validations": {
+            "matches": "Es darf nur aus Zahlen bestehen.",
+            "required": "Telefonnummernfeld darf nicht leer bleiben."
+          }
+        },
+        "subject": {
+          "placeholder": "Ihr Betreff *",
+          "validations": {
+            "min": "Muss mindestens {{length}} Zeichen lang sein.",
+            "max": "Es sollte maximal {{length}} Zeichen lang sein.",
+            "required": "Betrefffeld darf nicht leer bleiben."
+          }
+        },
+        "message": {
+          "placeholder": "Schreiben Sie Ihre Nachricht...",
+          "validations": {
+            "min": "Muss mindestens {{length}} Zeichen lang sein.",
+            "max": "Es sollte maximal {{length}} Zeichen lang sein.",
+            "required": "Das Nachrichtenfeld darf nicht leer bleiben."
+          }
+        }
+      },
+      "response": {
+        "success": "Danke, dass Sie uns kontaktiert haben. <br /> Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen.",
+        "error": "Beim Absenden des Formulars ist ein Fehler aufgetreten, bitte versuchen Sie es erneut."
+      }
+    }
+  },
+  "patient-testimonials": {
+    "country": "Land:",
+    "treatment": "Behandlung:",
+    "year": "Jahr:",
+    "watch-video": "Video ansehen"
+  },
+  "404": {
+    "title": "404!",
+    "sub-title": "Entschuldigung! Die Seite wurde nicht gefunden",
+    "description": "Hoppla! Die Seite, nach der Sie suchen, wird nicht beendet. Sie wurde möglicherweise verschoben oder gelöscht.",
+    "button": "Zurück zur Startseite"
+  },
+  "quiz": {
+    "title": "Beginnen wir mit der Erstellung Ihres kostenlosen Plans",
+    "description": "Hallo, Sie können den Test unten lösen, der 20 Sekunden dauert, um die Behandlungspreise zu erfahren, über die Sie sich wundern, die Vorher-Nachher-Bilder zu sehen und ein Geschenk von der größten Klinik der Türkei zu gewinnen 🙂",
+    "loading": {
+      "title": "Ihr kostenloser Superplan wird für Sie vorbereitet.",
+      "completed": "Der Superplan, den wir für Sie erstellt haben, ist fertig.",
+      "stage1": "Ihre Auswahl wird analysiert",
+      "stage2": "Der geeignete Plan wird gemäß Ihrer Auswahl erstellt",
+      "stage3": "Sie erhalten kostenlose zusätzliche Transaktionen, die Sie für Ihre Auswahl verwenden können."
+    },
+    "questions": {
+      "q": {
+        "q": "Mit welcher Phase möchten Sie fortfahren?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Preise erfahren",
+        "a2": "Vorher-Nachher-Galerien",
+        "a3": "Stellen Sie Ihre Fragen",
+        "a4": "Erstellen Sie einen Behandlungsplan"
+      },
+      "q1": {
+        "q": "Haben Sie Probleme mit Ihren Zähnen?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Ja, gibt es",
+        "a2": "Nein, meine Zähne sind vollkommen gesund"
+      },
+      "q2": {
+        "q": "Welche Zahnprobleme haben Sie jetzt oder früher?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Zahnfleischerkrankung",
+        "a2": "Zahnkrümmung",
+        "a3": "Fehlende Zähne",
+        "a4": "Schmerzen in meinen Zähnen",
+        "a5": "Andere"
+      },
+      "q3": {
+        "q": "Wann planen Sie nach Istanbul zu kommen?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "In ein paar Tagen",
+        "a2": "In ein paar Wochen",
+        "a3": "Nächster Monat",
+        "a4": "In den nächsten drei Monaten",
+        "a5": "Drei Monate später oder mehr"
+      },
+      "q4": {
+        "q": "Kommst du alleine oder mit einem Freund oder Partner nach Istanbul?",
+        "note": "Wir fragen das, weil wir ihr/ihm eine Zahnaufhellung schenken werden.",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Mit meinem Freund",
+        "a2": "Alleine"
+      },
+      "q5": {
+        "q": "Wir würden Sie gerne in einem Luxusfahrzeug vom Flughafen abholen und Sie in unserem eigenen Hotel übernachten lassen. Ist das das Richtige für Sie?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Ja, es ist ok",
+        "a2": "Nein, ich bleibe woanders"
+      },
+      "q6": {
+        "q": "Wie viele Tage bleibst du in Istanbul?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "1-5 Tage",
+        "a2": "5-10 Tage",
+        "a3": "2 Wochen",
+        "a4": "1 Monat oder mehr"
+      },
+      "q7": {
+        "q": "Würde Sie ein Reiseführer über die historischen Stätten Istanbuls glücklich machen?",
+        "note": "",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Ja",
+        "a2": "Nein, ich kenne Istanbul"
+      },
+      "q8": {
+        "q": "Ein letzter Schritt links!",
+        "note": "Wie möchten Sie, dass wir Ihnen unsere Preisliste und die Details des gewonnenen Geschenks zusenden?",
+        "loading": "Ihre Einstellungen werden zur Analyse ausgewertet.",
+        "a1": "Auf Whatsapp senden",
+        "a2": "Anrufen und erklären",
+        "a3": "Per E-Mail senden"
+      }
+    },
+    "complete": {
+      "note-title": "Notiz",
+      "online": "Online",
+      "completed": "Der Superplan, den wir für Sie erstellt haben, ist fertig und wir haben dem Plan einen besonderen Geschenkgutschein hinzugefügt. Bitte füllen Sie die folgenden Informationen aus, um Ihnen diesen Plan kostenlos anbieten zu können.",
+      "note": "Sie brauchen nicht verwirrt zu sein, wir haben alles von dem Tag, an dem Sie nach Istanbul gekommen sind, bis zu dem Datum, an dem Sie zurückkommen, geplant. Preis, Geschenke, Unterkunft, Stadtrundfahrt und mehr ... Holen Sie sich diesen Plan mit a Geschenk jetzt.. Der Plan wird in einer halben Stunde gelöscht.",
+      "congrats": "Herzlichen Glückwunsch, Sie sind die <strong>{{count}}</strong>.te Person, die gerade in einer Stunde einen kostenlosen Plan erstellt hat. Sie können Ihre kostenlose Zahnaufhellung in unseren Kliniken erhalten.",
+      "personal": "Ihre persönliche Führerin <strong>Selin</strong> ist bereit, Ihnen zu helfen, wann immer Sie wollen.",
+      "start-free": "Erfahren Sie Preise und Geschenk",
+      "final": "Wenn Sie weitere Fragen haben, können Sie Fragen stellen, indem Sie sich über den unten stehenden Link mit unserer kostenlosen WhatsApp-Hotline verbinden.",
+      "final-title": "Ihre Bewerbung ist vollständig!"
+    },
+    "buttons": {
+      "button-1": "Erstellen Sie Ihren kostenlosen Reiseplan",
+      "button-2": "Erstellen Sie Ihre Reise, sehen Sie sich den Preis an",
+      "button-3": "Geschenk-Tool",
+      "button-4": "Free Guidence Tool",
+      "button-5": "Journey Manager Tool verwenden"
+    }
+  },
+  "banner": {
+    "journey": {
+      "title": "Reiseplan GRATIS!",
+      "description": "Wir erstellen einen Reiseplan für Sie. Beginnen wir mit 8 einfachen Fragen und dann sind Sie bereit!",
+      "button": "Kostenlosen Plan erstellen"
+    }
+  },
+  "or": "oder",
+  "prices": {
+    "treatment": "Behandlung",
+    "price": "Preise",
+    "zirconium-coating": {
+      "price": "150 Euro",
+      "value": "Zirkoniumbeschichtung"
+    },
+    "emax-coating": {
+      "price": "200 Euro",
+      "value": "Emax-Beschichtung"
+    },
+    "porcelain-veneer": {
+      "price": "100 Euro",
+      "value": "Porzellanfurnier"
+    },
+    "native-implant": {
+      "price": "200 Euro",
+      "value": "Natives Implantat"
+    },
+    "medentika-implant": {
+      "price": "410 Euro",
+      "value": "Medentika (deutsch) Implantat"
+    },
+    "swiss-implant": {
+      "price": "350 Euro",
+      "value": "Schweizer (Schweizer) Implantat"
+    },
+    "x-ray-and-examination": {
+      "price": "<span>Kostenlos</span>",
+      "value": "Röntgen und Untersuchung"
+    },
+    "accommodation": {
+      "price": "<span>Kostenlos</span>",
+      "value": "Unterkunft"
+    },
+    "vip-transfer": {
+      "price": "<span>Kostenlos</span>",
+      "value": "VIP-Transfer"
+    },
+    "teeth-whitening": {
+      "price": "<span>Kostenlos</span>",
+      "value": "Zahnaufhellung"
+    },
+    "interpreter-service": {
+      "price": "<span>Kostenlos</span>",
+      "value": "Übersetzungs-/Dolmetscherdienst"
+    }
+  },
+  "email-or-phone": {
+    "description": "Sie müssen die beiden unten angeforderten Informationen nicht eingeben.<br />Sie können die Behandlungspreise erfahren, indem Sie Ihre E-Mail oder Telefonnummer hinterlassen."
+  }
+}
